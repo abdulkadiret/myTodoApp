@@ -1,0 +1,16 @@
+{
+    "name": "My Todo Application",
+    "short_name": "Todo-App",
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#fff",
+    "description": "A test Application for the module of Dynamic Web Technologies.",
+    "icons": [
+    {
+    "src": "/images/todo.svg",
+    "type": "image/svg",
+    "sizes": "any"
+    }
+    ]
+   }
